@@ -43,7 +43,7 @@ namespace Tyuiu.SysoevDA.Sprint5.Task3.V25
             double res = ds.SaveToFileTextData(x);
             Console.WriteLine("Файл создан! ");
             Console.WriteLine("Результат = " + res);
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
     }
 }

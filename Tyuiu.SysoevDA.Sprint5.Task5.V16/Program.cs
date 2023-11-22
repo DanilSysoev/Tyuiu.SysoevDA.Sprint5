@@ -18,7 +18,7 @@ namespace Tyuiu.SysoevDA.Sprint5.Task5.V16
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #5                                                               *");
             Console.WriteLine("* Тема: Чтение данных из текстового файла                                 *");
-            Console.WriteLine("* Задание #6                                                              *");
+            Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #16                                                             *");
             Console.WriteLine("* Выполнил: Сысоев Данил Алексеевич | ПКТБ-23-1                           *");
             Console.WriteLine("*                                                                         *");
